@@ -19,7 +19,7 @@ I build products at the intersection of AI and enterprise systems — from ML-po
 
 ## Tools I Build With
 
-**AI & Prototyping:** Claude Code · Cursor · v0 · Amazon Bedrock · OpenCode  
+**AI & Prototyping:** Claude Code · Antigravity · v0 · Amazon Bedrock · OpenCode  
 **Backend & Data:** Python · FastAPI · ChromaDB · SQLite · Docker  
 **Frontend:** TypeScript · React · React Native · Expo · Next.js · Tailwind CSS  
 **Cloud:** AWS · Cloudflare Workers · Supabase  
@@ -29,7 +29,7 @@ I build products at the intersection of AI and enterprise systems — from ML-po
 
 ## Background
 
-- **Cloudflare** — Senior PM, Infrastructure Lifecycle
+- **Cloudflare** — Principal PM, Infrastructure Lifecycle
 - **Amazon** — Senior Technical PM × 3 roles (ML search, enterprise sourcing, spend governance)
 - **AWS** — Senior Manager, Procurement & Supplier Development ($200M spend portfolio)
 
